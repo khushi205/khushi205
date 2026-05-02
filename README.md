@@ -49,7 +49,7 @@ I am a Computer Science student who loves coding, problem solving, and learning 
 
 - Data Structures & Algorithms  
 - Software Development  
-- Machine Learning  
+- Machine Learning 
 - Competitive Programming  
 - Web Development Basics  
 
